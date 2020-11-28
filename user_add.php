@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Add image blog</title>
+    <title>Add User</title>
 </head>
 
 <body>
